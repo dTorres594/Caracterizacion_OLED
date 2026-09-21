@@ -52,10 +52,10 @@
 			<Item Name="Queued Message Handler Documentation.html" Type="Document" URL="../documentation/Queued Message Handler Documentation.html"/>
 		</Item>
 		<Item Name="subVIs" Type="Folder">
-			<Item Name="Fo-Epc-In.vi" Type="VI" URL="../../pruebas/Fo-Epc-In.vi"/>
-			<Item Name="Luminancia.vi" Type="VI" URL="../../pruebas/Luminancia.vi"/>
-			<Item Name="Read Photodiode.vi" Type="VI" URL="../../pruebas/Read Photodiode.vi"/>
-			<Item Name="SEPARAPALABRASPowerMeter.VI" Type="VI" URL="../../pruebas/Labview-Fuente/SEPARAPALABRASPowerMeter.VI"/>
+			<Item Name="Fo-Epc-In.vi" Type="VI" URL="../support/Fo-Epc-In.vi"/>
+			<Item Name="Luminancia.vi" Type="VI" URL="../support/Luminancia.vi"/>
+			<Item Name="Read Photodiode.vi" Type="VI" URL="../support/Read Photodiode.vi"/>
+			<Item Name="SEPARAPALABRASPowerMeter.VI" Type="VI" URL="../support/SEPARAPALABRASPowerMeter.VI"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
