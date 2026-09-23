@@ -47,6 +47,7 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="oled UI Data.ctl" Type="VI" URL="../controls/oled UI Data.ctl"/>
 		</Item>
+		<Item Name="HL Acq Data.ctl" Type="VI" URL="../support/HL Acq Data.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Programa Caracterizacion Oleds.vi" Type="VI" URL="../../Programa Caracterizacion Oleds.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
