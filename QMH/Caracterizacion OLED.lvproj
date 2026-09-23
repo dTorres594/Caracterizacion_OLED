@@ -35,12 +35,14 @@
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Shutoff SM.vi" Type="VI" URL="../support/Shutoff SM.vi"/>
 			<Item Name="oled Message Queue.lvlib" Type="Library" URL="../support/Message Queue/oled Message Queue.lvlib"/>
 			<Item Name="oled User Event - Stop.lvlib" Type="Library" URL="../support/User Event - Stop/oled User Event - Stop.lvlib"/>
 			<Item Name="oled Check Loop Error.vi" Type="VI" URL="../support/oled Check Loop Error.vi"/>
 			<Item Name="oled Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/oled Error Handler - Event Handling Loop.vi"/>
 			<Item Name="oled Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/oled Error Handler - Message Handling Loop.vi"/>
 			<Item Name="oled Error logger.vi" Type="VI" URL="../support/oled Error logger.vi"/>
+			<Item Name="Configure SM.vi" Type="VI" URL="../support/Configure SM.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="oled UI Data.ctl" Type="VI" URL="../controls/oled UI Data.ctl"/>
