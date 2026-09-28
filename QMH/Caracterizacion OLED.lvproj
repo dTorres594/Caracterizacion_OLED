@@ -43,13 +43,18 @@
 			<Item Name="oled Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/oled Error Handler - Message Handling Loop.vi"/>
 			<Item Name="oled Error logger.vi" Type="VI" URL="../support/oled Error logger.vi"/>
 			<Item Name="Configure SM.vi" Type="VI" URL="../support/Configure SM.vi"/>
+			<Item Name="Get ILP.vi" Type="VI" URL="../support/Get ILP.vi"/>
+			<Item Name="Read SM.vi" Type="VI" URL="../support/Read SM.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
+			<Item Name="HL Acq Data.ctl" Type="VI" URL="../controls/HL Acq Data.ctl"/>
 			<Item Name="oled UI Data.ctl" Type="VI" URL="../controls/oled UI Data.ctl"/>
 		</Item>
-		<Item Name="HL Acq Data.ctl" Type="VI" URL="../support/HL Acq Data.ctl"/>
+		<Item Name="Acquisition data --typedef.ctl" Type="VI" URL="../controls/Acquisition data --typedef.ctl"/>
+		<Item Name="Graph data --typedef.ctl" Type="VI" URL="../controls/Graph data --typedef.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Programa Caracterizacion Oleds.vi" Type="VI" URL="../../Programa Caracterizacion Oleds.vi"/>
+		<Item Name="Update graph data.vi" Type="VI" URL="../support/Update graph data.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
