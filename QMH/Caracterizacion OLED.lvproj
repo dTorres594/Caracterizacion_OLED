@@ -45,16 +45,19 @@
 			<Item Name="Configure SM.vi" Type="VI" URL="../support/Configure SM.vi"/>
 			<Item Name="Get ILP.vi" Type="VI" URL="../support/Get ILP.vi"/>
 			<Item Name="Read SM.vi" Type="VI" URL="../support/Read SM.vi"/>
+			<Item Name="Update graph data.vi" Type="VI" URL="../support/Update graph data.vi"/>
+			<Item Name="Write file.vi" Type="VI" URL="../support/Write file.vi"/>
+			<Item Name="Load test file.vi" Type="VI" URL="../support/Load test file.vi"/>
 		</Item>
+		<Item Name="Testing" Type="Folder"/>
 		<Item Name="Type Definitions" Type="Folder">
+			<Item Name="Acquisition data --typedef.ctl" Type="VI" URL="../controls/Acquisition data --typedef.ctl"/>
+			<Item Name="Graph data --typedef.ctl" Type="VI" URL="../controls/Graph data --typedef.ctl"/>
 			<Item Name="HL Acq Data.ctl" Type="VI" URL="../controls/HL Acq Data.ctl"/>
 			<Item Name="oled UI Data.ctl" Type="VI" URL="../controls/oled UI Data.ctl"/>
 		</Item>
-		<Item Name="Acquisition data --typedef.ctl" Type="VI" URL="../controls/Acquisition data --typedef.ctl"/>
-		<Item Name="Graph data --typedef.ctl" Type="VI" URL="../controls/Graph data --typedef.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Programa Caracterizacion Oleds.vi" Type="VI" URL="../../Programa Caracterizacion Oleds.vi"/>
-		<Item Name="Update graph data.vi" Type="VI" URL="../support/Update graph data.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
