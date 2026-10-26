@@ -2,3 +2,9 @@
 
 23/09/2026 05:16 p. m.: error -1073807343 ocurrió en Property Node (arg 1) in VISA Configure Serial Port (Instr).vi->Main.vi.
 
+26/10/2026 09:48 a. m.: error -1073807343 ocurrió en Property Node (arg 1) in VISA Configure Serial Port (Instr).vi->Main.vi.
+
+26/10/2026 09:48 a. m.: error -1073807343 ocurrió en VISA Write in Configure SM.vi->Main.vi.
+
+26/10/2026 09:48 a. m.: error -1073807343 ocurrió en VISA Write in Configure SM.vi->Main.vi.
+
