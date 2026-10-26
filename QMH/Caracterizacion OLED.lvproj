@@ -28,30 +28,37 @@
 			<Item Name="TESIS MCO VERSION FINAL_Luis_Abraham.pdf" Type="Document" URL="../documentation/TESIS MCO VERSION FINAL_Luis_Abraham.pdf"/>
 		</Item>
 		<Item Name="subVIs" Type="Folder">
+			<Item Name="Configure SM.vi" Type="VI" URL="../support/Configure SM.vi"/>
+			<Item Name="Exp curve fitting.vi" Type="VI" URL="../support/Exp curve fitting.vi"/>
 			<Item Name="Fo-Epc-In.vi" Type="VI" URL="../support/Fo-Epc-In.vi"/>
+			<Item Name="Get ILP.vi" Type="VI" URL="../support/Get ILP.vi"/>
+			<Item Name="Get ILP2.vi" Type="VI" URL="../support/Get ILP2.vi"/>
+			<Item Name="Get MSE.vi" Type="VI" URL="../support/Get MSE.vi"/>
+			<Item Name="Load test file.vi" Type="VI" URL="../support/Load test file.vi"/>
 			<Item Name="Luminancia.vi" Type="VI" URL="../support/Luminancia.vi"/>
 			<Item Name="Read Photodiode.vi" Type="VI" URL="../support/Read Photodiode.vi"/>
+			<Item Name="Read SM.vi" Type="VI" URL="../support/Read SM.vi"/>
 			<Item Name="SEPARAPALABRASPowerMeter.VI" Type="VI" URL="../support/SEPARAPALABRASPowerMeter.VI"/>
+			<Item Name="Shutoff SM.vi" Type="VI" URL="../support/Shutoff SM.vi"/>
+			<Item Name="Update graph data.vi" Type="VI" URL="../support/Update graph data.vi"/>
+			<Item Name="Write file.vi" Type="VI" URL="../support/Write file.vi"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="Shutoff SM.vi" Type="VI" URL="../support/Shutoff SM.vi"/>
 			<Item Name="oled Message Queue.lvlib" Type="Library" URL="../support/Message Queue/oled Message Queue.lvlib"/>
 			<Item Name="oled User Event - Stop.lvlib" Type="Library" URL="../support/User Event - Stop/oled User Event - Stop.lvlib"/>
 			<Item Name="oled Check Loop Error.vi" Type="VI" URL="../support/oled Check Loop Error.vi"/>
 			<Item Name="oled Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/oled Error Handler - Event Handling Loop.vi"/>
 			<Item Name="oled Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/oled Error Handler - Message Handling Loop.vi"/>
 			<Item Name="oled Error logger.vi" Type="VI" URL="../support/oled Error logger.vi"/>
-			<Item Name="Configure SM.vi" Type="VI" URL="../support/Configure SM.vi"/>
-			<Item Name="Get ILP.vi" Type="VI" URL="../support/Get ILP.vi"/>
-			<Item Name="Read SM.vi" Type="VI" URL="../support/Read SM.vi"/>
-			<Item Name="Update graph data.vi" Type="VI" URL="../support/Update graph data.vi"/>
-			<Item Name="Write file.vi" Type="VI" URL="../support/Write file.vi"/>
-			<Item Name="Load test file.vi" Type="VI" URL="../support/Load test file.vi"/>
 		</Item>
-		<Item Name="Testing" Type="Folder"/>
+		<Item Name="Testing" Type="Folder">
+			<Item Name="Emulate aquisition.vi" Type="VI" URL="../support/Emulate aquisition.vi"/>
+			<Item Name="Test exp fit.vi" Type="VI" URL="../support/Test exp fit.vi"/>
+		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Acquisition data --typedef.ctl" Type="VI" URL="../controls/Acquisition data --typedef.ctl"/>
+			<Item Name="Color --typedef.ctl" Type="VI" URL="../controls/Color --typedef.ctl"/>
 			<Item Name="Graph data --typedef.ctl" Type="VI" URL="../controls/Graph data --typedef.ctl"/>
 			<Item Name="HL Acq Data.ctl" Type="VI" URL="../controls/HL Acq Data.ctl"/>
 			<Item Name="oled UI Data.ctl" Type="VI" URL="../controls/oled UI Data.ctl"/>
